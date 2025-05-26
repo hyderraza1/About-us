@@ -1,4 +1,7 @@
-.about{
-    background: #313552 ;
-    border-radius: 0.5rem;
+html{
+    scroll-behavior:  smooth;
+}
+body{
+    background: #252525;
+    font-family: sans-serif;
 }
